@@ -1,0 +1,27 @@
+body{
+    background-color: black !important;
+}
+
+*{
+   font-weight: 500;
+}
+
+#contenedorprincipal{
+    background-color: white;
+    margin: auto;
+    height: 700px;
+
+}
+
+.contenedorsecundario{
+    border-radius: 5px;
+}
+
+#parrafotextarea{
+    font-size: small;
+}
+
+#checkinputs{
+    background-color: grey;
+    border-radius: 5px;
+}
